@@ -1,6 +1,7 @@
 # FindPairs
 
 Configure and Run project
+
 Java 11 and maven is needed to compile and run this code.
 
 1. Clone the repository to local disk
